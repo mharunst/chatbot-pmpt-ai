@@ -1,0 +1,3 @@
+llama-cloud>=2.8
+python-dotenv
+pypdf
